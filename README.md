@@ -1,3 +1,3 @@
 # PthParserCMC
 
-Implementation of a parser for projects with coinmarketcap for the corresponding tags.
+Implementation of a parser for projects on coinmarketcap for the corresponding tags.
